@@ -6,12 +6,12 @@ require 'mina/rvm'
 require "mina_sidekiq/tasks"
 
 #set :domain, '47.93.145.36'
-set :deploy_to, '/data/www/blog'
+set :deploy_to, '/data/www/myapp'
 set :user, 'root'
 set :port, '3118'
 set :forward_agent, false    # SSH forward_agent
 
-set :repository, 'git@github.com:xiaohuwu/blog.git'
+set :repository, 'git@github.com:xiaohuwu/myapp.git'
 
 set :domain, '47.106.115.20'
 set :rvm_path, '/usr/local/rvm/bin/rvm'

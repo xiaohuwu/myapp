@@ -13,8 +13,8 @@ worker_processes 2
 working_directory APP_HOME # available in 0.94.0+
 
 if 'production' == ENV['RAILS_ENV']
-  listen "/data/www/blog/tmp/sockets/unicorn.sock", :backlog => 64
-  pid "/data/www/blog/tmp/pids/unicorn.pid"
+  listen "/data/www/myapp/tmp/sockets/unicorn.sock", :backlog => 64
+  pid "/data/www/myapp/tmp/pids/unicorn.pid"
 else
   listen 3006, :tcp_nopush => true
   pid "#{APP_HOME}/tmp/pids/unicorn.pid"
