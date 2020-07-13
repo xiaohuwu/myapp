@@ -1,0 +1,14 @@
+---
+:logfile: ./log/sidekiq.log
+:pidfile: tmp/pids/sidekiq.pid
+:verbose: false
+:concurrency: 5
+:tag: bg_mis
+:queues:
+  - [bills, 2]
+  - [mis_sms, 2]
+  - default
+development:
+  :concurrency: 5
+production:
+  :concurrency: 5
