@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56618a5a-ec84-4eb4-b771-1beb1f60d71e" name="Default Changelist" comment="" />
+    <list default="true" id="56618a5a-ec84-4eb4-b771-1beb1f60d71e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -76,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="90" column="3" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+            <state relative-caret-position="205">
+              <caret line="23" column="67" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="67" />
             </state>
           </provider>
         </entry>
@@ -101,6 +103,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>sass-rails</find>
+      <find>RAILS_SERVE_STATIC_FILES</find>
+      <find>precompile</find>
+      <find>compile</find>
+      <find>compress</find>
+      <find>serve_static_files</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,12 +120,13 @@
         <option value="$PROJECT_DIR$/commit.sh" />
         <option value="$PROJECT_DIR$/config/deploy.rb" />
         <option value="$PROJECT_DIR$/config/unicorn.rb" />
+        <option value="$PROJECT_DIR$/config/environments/production.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-26" />
-    <option name="y" value="220" />
+    <option name="x" value="46" />
+    <option name="y" value="61" />
     <option name="width" value="1706" />
     <option name="height" value="933" />
   </component>
@@ -312,16 +320,15 @@
       <option name="presentableId" value="Default" />
       <updated>1594667149829</updated>
       <workItem from="1594667151681" duration="1847000" />
-      <workItem from="1594692995991" duration="1301000" />
+      <workItem from="1594692995991" duration="1885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3148000" />
+    <option name="totallyTimeSpent" value="3732000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="160" y="134" width="1706" height="933" extended-state="0" />
-    <editor active="true" />
+    <frame x="46" y="61" width="1706" height="933" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22415866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -336,7 +343,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49939904" visible="true" weight="0.32699168" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49939904" visible="true" weight="0.17717004" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50060093" side_tool="true" weight="0.40071344" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -418,8 +425,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" column="3" selection-start-line="90" selection-start-column="3" selection-end-line="90" selection-end-column="3" />
+        <state relative-caret-position="205">
+          <caret line="23" column="67" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="67" />
         </state>
       </provider>
     </entry>
