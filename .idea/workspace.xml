@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56618a5a-ec84-4eb4-b771-1beb1f60d71e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="56618a5a-ec84-4eb4-b771-1beb1f60d71e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
     <ignored path="$PROJECT_DIR$/log/" />
@@ -78,8 +76,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="23" column="67" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="67" />
+            <state relative-caret-position="-287">
+              <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -320,17 +318,17 @@
       <option name="presentableId" value="Default" />
       <updated>1594667149829</updated>
       <workItem from="1594667151681" duration="1847000" />
-      <workItem from="1594692995991" duration="1885000" />
+      <workItem from="1594692995991" duration="2121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3732000" />
+    <option name="totallyTimeSpent" value="3968000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="46" y="61" width="1706" height="933" extended-state="0" />
+    <frame x="52" y="23" width="1706" height="933" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22415866" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22415866" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -343,7 +341,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49939904" visible="true" weight="0.17717004" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49939904" visible="true" weight="0.5112961" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50060093" side_tool="true" weight="0.40071344" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -425,8 +423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config/environments/production.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="23" column="67" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="67" />
+        <state relative-caret-position="-287">
+          <caret line="30" column="47" lean-forward="true" selection-start-line="30" selection-start-column="47" selection-end-line="30" selection-end-column="47" />
         </state>
       </provider>
     </entry>
