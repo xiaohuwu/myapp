@@ -136,7 +136,7 @@ GEM
       pry (>= 0.9.10, < 0.13.0)
     pry-rails (0.3.2)
       pry (>= 0.9.10)
-    puma (4.3.5)
+    puma (4.3.8)
       nio4r (~> 2.0)
     pundit (2.1.0)
       activesupport (>= 3.0.0)
